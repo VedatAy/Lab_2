@@ -1,0 +1,15 @@
+{
+  "name": "webtech-back-end",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
+}
